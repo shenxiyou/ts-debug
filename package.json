@@ -2,7 +2,7 @@
   "name": "ts-debug-helper",
   "displayName": "TypeScript Debug Helper",
   "description": "TypeScript debugg helper for vscode",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.77.0"
   },
